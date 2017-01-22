@@ -1,0 +1,32 @@
+[project]
+title = Kanji Adventure
+version = 0.01
+custom_resources = /main/maps/ka_battle.lua,/main/dictionary.json
+
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[input]
+game_binding = /input/game.input_bindingc
+
+[display]
+width = 1920
+height = 1080
+update_frequency = 60
+high_dpi = 0
+fullscreen = 0
+variable_dt = 1
+
+[physics]
+scale = 0.02
+
+[script]
+shared_state = 1
+
+[sprite]
+max_count = 1024
+
+[graphics]
+default_texture_mag_filter = linear
+default_texture_min_filter = linear
+
