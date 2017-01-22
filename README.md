@@ -17,8 +17,11 @@ As I do not possess knowledge about the Japanese skill of yours, I will presume 
 
 ## Spells
 You have three spells at your disposal. You can use one per turn. *Choose wisely!*
+
 1. **Whirl** - a powerful spell that can only be used on nearby enemies
+
 2. **Precision Shot** - a long range spell that deals moderate damage
+
 3. **Gust** - an *area-of-effect* spell that deals moderate damage to multiple enemies at a time
 
 ## Learning element
