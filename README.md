@@ -1,4 +1,5 @@
-==** Click the green "Clone or download" button above to download the builds **==
+**Click the green "Clone or download" button above to download the builds.**
+
 Alternative download link: http://tomires.eu/kanjiadventure.zip
 
 # Kanji Adventure (battle prototype)
@@ -25,18 +26,18 @@ Each time a spell is cast, the player will be asked to transcribe kanji characte
 
 ## Cheat sheet
 
-| Kanji| Kana | English |
-|--------|--------|
-|日|ひ (**hi**)|day
-|人|ひと (**hito**)|person
-|天|てん (**tenn**)|sky
-|本|ほん (**honn**)|book
-|山|やま (**yama**)|mountain
-|学校|がっこう (**gakkou**)|school
-|外国|がいこく (**gaikoku**)|foreign country
-|先生|せんせい (**sennsei**)|teacher
-|銀行|ぎんこう (**ginnkou**)|bank
-|小説|しょうせつ (**shousetsu**)|novel
+Kanji|Kana|English
+--------|--------|--------
+日|ひ (**hi**)|day
+人|ひと (**hito**)|person
+天|てん (**tenn**)|sky
+本|ほん (**honn**)|book
+山|やま (**yama**)|mountain
+学校|がっこう (**gakkou**)|school
+外国|がいこく (**gaikoku**)|foreign country
+先生|せんせい (**sennsei**)|teacher
+銀行|ぎんこう (**ginnkou**)|bank
+小説|しょうせつ (**shousetsu**)|novel
 
 ## Updates
 Thank you for trying out my game. If you have any feature ideas or have found a bug, feel free to open an issue here on GitHub or e-mail me at **me@tomires.eu**. As always, everything you see here is a work in progress.
