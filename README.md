@@ -4,7 +4,7 @@ Alternative download link: http://tomires.eu/kanjiadventure.zip
 
 # Kanji Adventure (exploration demo)
 
-Here you will find releases for an early build of Kanji Adventure, an edutainment turn-based RPG game designed to teach you Japanese in an entertaining way. The current alpha release includes a **demonstration of the exploration system**, which is mainly features a progressive learning system, quests, items and more.
+Here you will find releases for an early build of Kanji Adventure, an edutainment turn-based RPG game designed to teach you Japanese in an entertaining way. The current alpha release includes a **demonstration of the exploration system**, which features a progressive learning system, quests, items and more.
 
 As I do not possess knowledge about the Japanese skill of yours, I will presume that you have no previous experience. As such I have prepared a cheatsheet including a list of all kanji used within the current build of the game. You can find it at the end of this document.
 
@@ -33,7 +33,7 @@ You have four spells at your disposal, that you can mix and match during each tu
 
 4. **Fiery Arrow** - a directional *area-of-effect* spell that deals moderate damage to enemies located in a straight line between you and your target
 
-In addition to these four spell, you also have an option to use consumable items during the battle portion of the game in order to replenish health.
+In addition to these four spells, you also have an option to use consumable items during the battle portion of the game in order to replenish health.
 
 ## Learning element
 Each time a spell is cast, the player will be asked to transcribe kanji character displayed to kana using their keyboard. Damage dealt by the spell depends on time spent answering the query. The player obtains a new kanji character every time they level up.
