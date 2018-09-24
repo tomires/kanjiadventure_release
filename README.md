@@ -1,12 +1,10 @@
-**Click the green "Clone or download" button above to download the builds.**
+# Kanji Adventure (crafting demo)
 
-Alternative download link: http://tomires.eu/kanjiadventure.zip
-
-# Kanji Adventure (exploration demo)
-
-Here you will find releases for an early build of Kanji Adventure, an edutainment turn-based RPG game designed to teach you Japanese in an entertaining way. The current alpha release includes a **demonstration of the exploration system**, which features a progressive learning system, quests, items and more.
+Here you will find releases for an early build of Kanji Adventure, an edutainment turn-based RPG game designed to teach you Japanese in an entertaining way. The current alpha release includes a **demonstration of the crafting system**, including the gathering and crafting portions.
 
 As I do not possess knowledge about the Japanese skill of yours, I will presume that you have no previous experience. As such I have prepared a cheatsheet including a list of all kanji used within the current build of the game. You can find it at the end of this document.
+
+**[Click here](https://github.com/Tomires/kanjiadventure_release/releases) to download the latest build.**
 
 ## Requirements
 
@@ -21,6 +19,11 @@ The game requires a minimum resolution of 1920x1080. If the user is running Wind
 
 ## Quests
 Try your hand at seven unique quests available in this release. You will hunt rabbits, participate in a scavenger hunt, collect fruit and more.
+
+## Crafting
+You will often encounter gatherable resources on your journeys throughout the world. To gather the resource, move your mouse onto the tile and click. Once your character reaches the tile, a query will appear requiring you to match a kanji phrase with its pronunciation in hiragana as well as its English translation.
+
+Once you have gathered enough resources, you will be able to craft articles of clothing and certain consumables. To do so, visit a crafting station which is denoted on the map.
 
 ## Spells
 You have four spells at your disposal, that you can mix and match during each turn.
